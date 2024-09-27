@@ -1,0 +1,45 @@
+
+body{
+
+    padding 10px;
+    margin 15px;
+}
+
+.MainHeader{
+
+    display: block;
+    height: 50px;
+    background-color: aquamarine;
+}
+
+
+
+
+#MyMain{
+    width: 30%;
+    background-color: rgb(128, 150, 240);
+    height: 100px;
+    height: calc(100% - 20px);
+
+}
+
+
+@media(max-width: 90%){
+    
+.MainAside{
+
+    width: 30%;
+    background-color: lightcoral;
+    height: 100px;
+    margin: 5px;
+
+}
+
+.MainSection{
+
+    background-color: orange;
+    display: flex   ;
+    height: 100px;
+}
+
+}
