@@ -1,0 +1,29 @@
+es un lenguaje de programación
+de secuencias de comando
+
+Imperativo y estructurado
+
+Tipado dinámico 
+
+(el tipo está asociado al valor
+no a la variable)
+
+Objetual: está formado casi en su 
+          totalidad por objetos
+
+Los objetos en javascript son arrays 
+asociativos, mejorados con la inclusión
+de prototipos
+
+prototipico: usa prototipos en el nucleo
+de sus objetos para hacer uso de 
+referencias y declaraciones en el tipo
+
+
+¿Qué se puede hacer?
+
+Almacenar valores útiles de variables
+Operaciones sobre fragmentos
+Ejecutar código
+Manejo de interfaces
+
